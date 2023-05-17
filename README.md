@@ -46,6 +46,10 @@ pegasus_fineturn_and_evaluation_script.ipynb, with the input from topK_sentenceE
 bertSum_extractive.ipynb
 
 ## AI_Disclosure
-From my understanding, a substantial portion of our project was indeed assisted by ChatGPT. However, upon closer inspection, we primarily utilized ChatGPT in a supportive capacity. Typical interactions included soliciting help with debugging, such as in instances where the code would not execute under certain conditions. We also sought assistance with enhancing the readability of our comments, converting nested 'for' loops into 'comprehension' loops, or figuring out how to convert a DataFrame into JSON format, among other tasks.
+From my understanding, a substantial portion of our project was indeed assisted by ChatGPT. However, upon closer inspection, we primarily utilized ChatGPT in a supportive capacity (except the ones clearly stated in the code file). Typical interactions included soliciting help with debugging, such as in instances where the code would not execute under certain conditions. We also sought assistance with enhancing the readability of our comments, converting nested 'for' loops into 'comprehension' loops, or figuring out how to convert a DataFrame into JSON format, among other tasks. 
 
 Importantly, this means that while ChatGPT was a valuable tool in our development process, it did not automatically generate any portion of our code in its entirety. Instead, we leveraged its capabilities as an aid or a supplementary tool, rather than as a standalone code generator.
+
+## GDrive
+Here is the google drive link where includes all the model checkpoints and generated data
+https://drive.google.com/drive/u/1/folders/1PTLStbDRehEmie-6HSgnaLfvVrWi9U42
