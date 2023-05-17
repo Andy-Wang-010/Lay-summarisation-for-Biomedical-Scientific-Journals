@@ -46,7 +46,7 @@ pegasus_fineturn_and_evaluation_script.ipynb, with the input from topK_sentenceE
 bertSum_extractive.ipynb
 
 ### Human evaluation
-making_humaneval_csv.ipynb, this file grabs all the model generated data, ground truth and abstrct and convert it into a csv file for human evaluation \\
+making_humaneval_csv.ipynb, this file grabs all the model generated data, ground truth and abstrct and convert it into a csv file for human evaluation <br>
 human_evaluation.ipynb, this file blind-folds human evaluator when evaluating so they do not know what model generates the data/ if the data is ground-truth or abstract
 
 ## AI_Disclosure
