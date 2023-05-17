@@ -45,6 +45,10 @@ pegasus_fineturn_and_evaluation_script.ipynb, with the input from topK_sentenceE
 #### 3. Extrative method (discarded because of the cost):  
 bertSum_extractive.ipynb
 
+### Human evaluation
+making_humaneval_csv.ipynb, this file grabs all the model generated data, ground truth and abstrct and convert it into a csv file for human evaluation
+human_evaluation.ipynb, this file blind-folds human evaluator when evaluating so they do not know what model generates the data/ if the data is ground-truth or abstract
+
 ## AI_Disclosure
 From my understanding, a substantial portion of our project was indeed assisted by ChatGPT. However, upon closer inspection, we primarily utilized ChatGPT in a supportive capacity (except the ones clearly stated in the code file). Typical interactions included soliciting help with debugging, such as in instances where the code would not execute under certain conditions. We also sought assistance with enhancing the readability of our comments, converting nested 'for' loops into 'comprehension' loops, or figuring out how to convert a DataFrame into JSON format, among other tasks. 
 
