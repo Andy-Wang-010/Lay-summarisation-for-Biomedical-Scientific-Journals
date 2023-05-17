@@ -51,5 +51,5 @@ From my understanding, a substantial portion of our project was indeed assisted 
 Importantly, this means that while ChatGPT was a valuable tool in our development process, it did not automatically generate any portion of our code in its entirety. Instead, we leveraged its capabilities as an aid or a supplementary tool, rather than as a standalone code generator.
 
 ## GDrive
-Here is the google drive link where includes all the model checkpoints and generated data
+Here is the google drive link where includes all the model checkpoints, generated data and eLife dataset
 https://drive.google.com/drive/u/1/folders/1PTLStbDRehEmie-6HSgnaLfvVrWi9U42
